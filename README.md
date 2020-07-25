@@ -1,4 +1,4 @@
-#[WIP]
+# WIP
 # kubernetes-learning-resources
 Collection of Kubernetes learning resources
 
